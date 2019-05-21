@@ -1,0 +1,2 @@
+# magento2AdvancedPricingImportExportbug
+Advanced Pricing Export bug
